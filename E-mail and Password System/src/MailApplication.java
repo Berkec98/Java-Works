@@ -1,5 +1,4 @@
-// Written by Ahmet Tezcan, Berke Cakirlar, Eda Kalaycioglu, Gizem Dalkara
-// Date 02-01-2021
+// Written by  Berke Cakirlar
 // This application gives a mail to student about his/ her department and school.
 
 public class MailApplication {

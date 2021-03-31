@@ -1,3 +1,5 @@
+// You have 100 credits. You can shop. At the end of 5 shopping, we will give you a random gift. Berke Cakirlar
+
 import java.util.Scanner;
 
 public class deneme {
@@ -69,8 +71,6 @@ public class deneme {
     	}
 	 }
  }
-
-
 }
     	
    	

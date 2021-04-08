@@ -9,11 +9,11 @@ public Manager(String name,String department, int salary, int num_of_employees) 
 }
 	
 public void maasaZam(int miktar) {
-	System.out.println(miktar + " tl zam yapýldý.");
+	System.out.println(miktar + " raise was made.");
 }
 public void showInfos() {
 	super.showInfos();
-    System.out.println("Kiþi sayýsý:" + this.num_of_employees);
+    System.out.println("Number of employee:" + this.num_of_employees);
 }
 }
 

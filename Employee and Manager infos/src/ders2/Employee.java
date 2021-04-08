@@ -12,9 +12,9 @@ public Employee (String name, String department, int salary) {
 }
 	
 public void showInfos() {
-	System.out.println("Ýsim: " + this.name);
-	System.out.println("Departman: " + this.department);
-    System.out.println("Maaþ: " + this.salary);
+	System.out.println("Name: " + this.name);
+	System.out.println("Departmant: " + this.department);
+    System.out.println("Salary: " + this.salary);
 
 }
 }

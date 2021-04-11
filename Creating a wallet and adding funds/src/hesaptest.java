@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class hesaptest {
 	public static void main(String[] args) {
-		hesap hesap1 = new hesap ("Berke Çakırlar",0);
-		hesap hesap2 = new hesap ("Onur Çakırlar",500);
+		hesap hesap1 = new hesap ("Berke",0);
+		hesap hesap2 = new hesap ("Onur",500);
 		
 		Scanner input = new Scanner (System.in);
 		

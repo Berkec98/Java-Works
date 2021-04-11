@@ -6,7 +6,5 @@ public class Walking extends Shoe{
 	Walking(boolean goreTex,String brand,double size) {
 		super(brand,size);
 		this.goreTex = goreTex;
-	}
-	
-
+	}	
 }

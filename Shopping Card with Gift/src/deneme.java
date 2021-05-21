@@ -10,7 +10,7 @@ public class deneme {
 	 int phocredit = 15;
 	 int total = 0;
 	 
-	 System.out.println("Welcome to Shopping Cart");
+	 System.out.println("Welcome to Shopping Card");
 	 System.out.println("You have 100 credit.");
 	 Scanner scan = new Scanner(System.in);
 	 
